@@ -42,6 +42,16 @@ function loser_css() {
 			padding-right: 0;
 		}
 	}
+	#motivate {
+		float: right;
+		border-width: thin;
+		border-color: #333333;
+		padding: 5px 10px;
+		margin: 0;
+		font-size: 12px;
+		line-height: 2;
+		color: red;
+	}
 	</style>
 	";
 }
